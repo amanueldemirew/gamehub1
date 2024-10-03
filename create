@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Initialize a new Git repository
+git init
+
+# Add the README.md file to the staging area
+git add README.md
+
+# Commit the changes with a message
+git commit -m "first commit"
+
+# Rename the default branch to 'main'
+git branch -M main
+
+# Add the remote repository URL
+git remote add origin https
