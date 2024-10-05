@@ -2,7 +2,7 @@
   "name": "game-hub",
   "private": true,
   "version": "0.0.0",
-  "homepage": "/gamehub1/",
+  "homepage": "https://amanueldemirew.github.io/gamehub1/",
   "type": "module",
   "scripts": {
     "dev": "vite",
